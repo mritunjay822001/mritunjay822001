@@ -50,44 +50,65 @@
 - 🌱 Spring Boot Practice Projects *(Coming Soon)*
 
 ---
+## 📚 Currently Exploring
 
-# 📚 Currently Exploring
+<p>
 
-- Object-Oriented Programming
-- Collections Framework
-- Exception Handling
-- File Handling
-- Multithreading
-- JDBC
-- REST APIs
-- Spring Boot
+☕ <b>Object-Oriented Programming</b><br>
+
+📦 <b>Collections Framework</b><br>
+
+⚠️ <b>Exception Handling</b><br>
+
+📁 <b>File Handling</b><br>
+
+🧵 <b>Multithreading</b><br>
+
+🔗 <b>JDBC</b><br>
+
+🌐 <b>REST APIs</b><br>
+
+🍃 <b>Spring Boot</b>
+
+</p>
+---
+## 🏏 Hobbies & Interests
+
+<p>
+
+🏏 <b>Cricket</b><br>
+
+🎤 <b>Singing</b><br>
+
+📷 <b>Photography</b><br>
+
+🎧 <b>Listening to Music</b><br>
+
+💻 <b>Coding</b><br>
+
+🏍️ <b>Bike Rides</b>
+
+</p>
 
 ---
 
-# 🏏 Hobbies & Interests
+## 🎯 Goals
 
-🏏 Cricket
+<p>
 
-🎤 Singing
+✅ <b>Master Core Java</b><br>
 
-📷 Photography
+✅ <b>Learn Advanced Java</b><br>
 
-🎧 Listening to Music
+✅ <b>Learn Spring Boot</b><br>
 
-💻 Coding
+✅ <b>Build Real-World Projects</b><br>
 
-🚴 Bike Rides
+✅ <b>Strengthen DSA & Problem Solving</b><br>
 
----
+🚀 <b>Become a Java Full Stack Developer</b>
 
-# 🎯 Goals
-
-- ✅ Master Core Java
-- ✅ Learn Advanced Java
-- ✅ Learn Spring Boot
-- ✅ Build Real-World Projects
-- ✅ Strengthen DSA
-- ✅ Become a Java Full Stack Developer
+</p>
 
 ---
 
