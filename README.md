@@ -22,7 +22,7 @@
 
 🌱 Currently Learning
 
-- ☕ Core Java
+- ☕  Java
 - 🗄 Oracle SQL
 - 📊 PL/SQL
 - 🔗 JDBC
